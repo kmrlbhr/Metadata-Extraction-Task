@@ -88,7 +88,7 @@ strings computer.jpg
 ```
 <img width="1918" height="936" alt="computer(strings)1" src="https://github.com/user-attachments/assets/ecdd091c-dd39-492b-9721-fe6d5d7f38e5" />
 
-We can also recuding the noise by using:
+We can also reducing the noise by using:
 
 ```bash
 strings -n 10 computer.jpg
