@@ -13,3 +13,17 @@ This repository demonstrates fundamental techniques for analyzing file metadata,
 | `File` | Determines file types based on magic numbers/file signatures rather than extensions |
 
 ---
+### 1. `ocean.jpg` - Metadata Extraction
+We used `ExifTool` to analyze the metadata of this JPEG.
+
+```bash
+exiftool ocean.jpg
+```
+<img width="1919" height="934" alt="Ocean(Exiftool)" src="https://github.com/user-attachments/assets/1fbabeb7-e833-4f71-9408-ca7f2829d474" />
+* Inspecting the output revealed a hidden flag planted within the image's `Comment` field.
+
+**Result** :
+
+```bash
+THIS IS THE HIDDEN FLAG
+```
