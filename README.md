@@ -35,7 +35,7 @@ hexeditor computer.jpg
 ```
 <img width="1918" height="935" alt="computer(hexeditor)" src="https://github.com/user-attachments/assets/6d595416-cf6e-4eb9-b75e-b45e0c11ffa8" />
 
-Try to look for Enf of File (EOF):JPEG files officially end with the hex bytes FF D9
+*Try to look for Enf of File (EOF):JPEG files officially end with the hex bytes `FF D9`
 
 <img width="1917" height="935" alt="computer(hexeditor)FF D9" src="https://github.com/user-attachments/assets/87528c69-e6ea-4568-9b17-272e7b0515d6" />
 
